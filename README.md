@@ -13,3 +13,7 @@ The main function doesn't really do anything useful or interesting. It just
 contains some badly written tests I wrote to make sure everything worked as I
 wanted it to The most important thing to look at here is `src/hmm.h` and 
 `src/hmm.c` which are derived from Mark's pseudocode
+
+[Revealing]: https://www.cs.sjsu.edu/~stamp/RUA/HMM.pdf
+[Stamp]: http://www.cs.sjsu.edu/~stamp/
+
